@@ -8,6 +8,10 @@ This repository serves as my personal reference notebook for documenting success
 
 The installation processes for MCP servers evolve rapidly, so all notes include timestamps to indicate when the installation was documented and tested.
 
+## Claude Code MCP Installation Notes
+
+- **[My Claude Code MCP Glosses](claude-code/my-glosses.md)** - Personal notes and insights on Claude Code's MCP implementation
+
 ## Target Audiences
 
 - **Primary**: Personal reference and documentation
@@ -19,9 +23,7 @@ The installation processes for MCP servers evolve rapidly, so all notes include 
 - Cross-platform CLI tools
 - Other operating systems where applicable
 
-## Contributing
-
-If you find any inaccuracies, outdated information, or have improvements to suggest, please feel free to open a pull request. Given the fast-moving nature of MCP development, corrections and updates are always welcome.
+ 
 
 ## Disclaimer
 
@@ -35,6 +37,8 @@ Installation notes are organized by MCP server name, with each note including:
 - Step-by-step installation instructions
 - Configuration notes
 - Troubleshooting tips (where applicable)
+
+ 
 
 ---
 
